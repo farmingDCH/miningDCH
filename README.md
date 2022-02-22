@@ -1,4 +1,4 @@
-Name: mining DCH
+Name: farming DCH
 
 Symbol: DCH
 
