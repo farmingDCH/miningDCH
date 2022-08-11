@@ -12,6 +12,6 @@ To contribute to Chia's ecology, the DCH mine has steadily increased farming equ
 
 twitter：https://twitter.com/farmingDCH
 
-不和谐：https://discord.com/invite/4C7WKvA8Tg
+discord：https://discord.com/invite/4C7WKvA8Tg
 
 ![image](https://user-images.githubusercontent.com/100044744/154817496-d61cd0a2-8931-4d1a-9b9f-b792d1536097.png)
