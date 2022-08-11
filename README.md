@@ -4,7 +4,7 @@ Symbol: DCH
 
 Total Supply: 12000000
 
-Token ID: https://www.spacescan.io/xch/cat1/95016b20a0238142761f22d5839b7f9eed8ac64ed0064a7efcaae1aef365524b
+Token ID: https://www.spacescan.io/xch/cat2/51ef89a35fa316c0f2747696b2483c9203da3155b603ea3f194640ada374907f
 
 introduce：
 
