@@ -10,7 +10,7 @@ introduce：
 
 To contribute to Chia's ecology, the DCH mine has steadily increased farming equipment, and put the mine block reward 0.25XCH into the market to give back to the majority of DCH holders.
 
-twitter：https://twitter.com/farmingDCH
+twitter：https://twitter.com/farmingDCH2
 
 discord：https://discord.com/invite/4C7WKvA8Tg
 
